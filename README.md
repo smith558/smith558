@@ -36,6 +36,8 @@ An application that harvests data from various public sources and pushes them to
 
 An application that makes it easier for citizens to access voting cards or vote from abroad. For elections to the National Council, presidential elections or elections to the European Parliament. Consulted with the Ministry of the Interior on the functionality.
 
+Find more on [github.com/smith558](https://github.com/smith558).
+
 [![smith558's Github chart](https://ghchart.rshah.org/smith558)](https://github.com/smith558)</div>
 
 <div>
@@ -43,8 +45,6 @@ An application that makes it easier for citizens to access voting cards or vote 
 ### I am always happy to <span style="font-weight: bolder;">connect.</span>
 
 Feel free to send me an email at [stanislav.modrak@gmail.com](mailto:stanislav.modrak@gmail.com). You can also find all my side projects on <span style="color: var(--maincolor);">GitHub</span> and learn more about my career on <span style="color: var(--maincolor);">LinkedIn</span>.
-
-Learn more on me personal web [stanislav.gq](https://stanislav.gq).
 
 </div>
 
