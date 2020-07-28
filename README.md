@@ -38,7 +38,7 @@ An application that makes it easier for citizens to access voting cards or vote 
 
 Find more on [github.com/smith558](https://github.com/smith558).
 
-[![smith558's Github chart](https://ghchart.rshah.org/smith558)](https://github.com/smith558)</div>
+[![smith558's Github chart](https://ghchart.rshah.org/6e75ff/smith558)](https://github.com/smith558)</div>
 
 <div>
 
