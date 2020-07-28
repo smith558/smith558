@@ -50,8 +50,10 @@ Feel free to send me an email at [stanislav.modrak@gmail.com](mailto:stanislav.m
 
 </main>
 
+* * *
+
 <footer>
 
-* * *
+<sup>Markdown copy of [stanislav.gq](https://stanislav.gq)</sup>
 
 </div>
