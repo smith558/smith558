@@ -20,6 +20,18 @@ In 2019 I began studying <span style="color: var(--maincolor);">Software Enginee
 
 <div>
 
+#### [javascript.info](https://javascript.info/)
+
+Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including closures, document and events, object-oriented programming and more.
+
+<div>
+
+#### [Learn You a Haskell](https://learnyouahaskell.github.io/)
+
+An up-to-date community-maintained version of the renowned "Learn You a Haskell" (LYAH) tutorials collection for the Haskell functional programming language.
+
+<div>
+
 #### [navody.digital](https://github.com/slovensko-digital/navody.digital)
 
 Interactive guides on how to handle official matters electronically and avoid unnecessary bureaucracy.
